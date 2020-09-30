@@ -2,4 +2,4 @@
 
 ## Why markdown?
 
-The first reason I that it's easily interoperable.
+The first reason I that it's easily editable.
